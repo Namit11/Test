@@ -1,1 +1,2 @@
 Want to learn GIT in proper sense.
+Pull command is working fine but push command is asking for password.
